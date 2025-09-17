@@ -2,6 +2,7 @@
 #ENTRADA: ingresar 3 lados
 #SALIDA:identificar si los lados que digito pertenece a triangulo isosceles equilatero o escaleno
 #PROCESO:este algoritmo hace que cuando el usuario digite 3 lados identifique que tipo de triangulo que es  escaleno,equilatero o isosceles
+#AUTOR: KAREN VIZCAINO
 
 lado1=float(input("ingrese el primer lado del triangulo:"))
 lado2=float(input("ingrese el segundo lado del triangulo:"))
